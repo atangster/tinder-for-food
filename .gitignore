@@ -1,0 +1,11 @@
+# Node and Flutter
+/node_modules
+/.flutter-plugins
+/.flutter-plugins-dependencies
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
